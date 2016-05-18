@@ -7,12 +7,18 @@
 //
 
 import UIKit
+import YVPodDemo
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        YVPodDemo.podClassDemoFunction()
+        
+        let podDemo = YVPodDemo()
+        podDemo.podInstanceDemoFunction()
     }
 
     override func didReceiveMemoryWarning() {

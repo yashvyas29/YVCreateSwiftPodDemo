@@ -1,0 +1,16 @@
+PODS:
+  - YVPodDemo (0.1.0)
+
+DEPENDENCIES:
+  - YVPodDemo (from `../`)
+
+EXTERNAL SOURCES:
+  YVPodDemo:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YVPodDemo: 534611d3d4c48e5e4bc1eefb0b892827fba0871f
+
+PODFILE CHECKSUM: 120f1bab9b528e953199976051e92d66ff8d9bfc
+
+COCOAPODS: 1.0.0
